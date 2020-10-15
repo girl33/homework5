@@ -1,0 +1,67 @@
+main{
+    width: 600px;
+    height: 100vh;
+    margin: 0px auto;
+    border-left: 50px solid red;
+    border-right: 50px solid blue;
+    background-image:url(https://images.unsplash.com/photo-1542705959-878ca346eb20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-size: cover;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: auto;
+}
+h1{
+    font-family: 'Alfa Slab One', cursive;
+    color: rgb(173, 21, 21);
+    font-size: 35px;
+    text-shadow: 0px 0px 8px white;
+    margin-top: 10px;
+}
+.one{
+    font-family: 'Carter One', cursive;
+    font-size: 20px;
+    color: white;
+}
+.two{
+    font-family: 'Cairo', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+.three{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    margin-bottom: 25px;
+}
+.four{
+    font-family: 'Mali', cursive;
+    color: rgb(230, 24, 58);
+    text-shadow: 0px 0px 10px white;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.five{
+    font-family: 'Cookie', cursive;
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+span{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+div{
+    text-align: center;
+    transform: rotate(-10deg);
+}
+.seven{
+    font-family: 'DM Mono', monospace;
+    color: white;
+    text-align: right;
+    margin-top: 30px;
+}
+b{
+    color: orangered;
+}
